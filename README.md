@@ -25,5 +25,5 @@ This was an assignment for the Data Analytics & Visualisation module of my Data 
 ## Files
 | File | Description |
 |------|-------------|
-| `CW1_Task_3_25259628.docx` | Report covering system design, data cleaning, interactive analysis, modelling and recommendations |
+| `CW1_Task_3_25259628.pdf` | Report covering system design, data cleaning, interactive analysis, modelling and recommendations |
 | `CW1_Task_3_25259628.ipynb` | Python notebook with the full cleaning, visualisation and modelling workflow |
